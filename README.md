@@ -13,31 +13,31 @@ The project bridges the gap between complex ML models and clinical practice by p
 ### 🏠 Home Dashboard
 
 <p align="center">
-  <img src="./screenshots/home-dashboard.png" alt="Home Dashboard" width="900">
+  <img src="AMRPrediction/imgs/img4.png" alt="Home Dashboard" width="900">
 </p>
 
 ### 🔬 Prediction Page
 
 <p align="center">
-  <img src="./screenshots/prediction-page.png" alt="Prediction Page" width="900">
+  <img src="AMRPrediction/imgs/img5.png" alt="Prediction Page" width="900">
 </p>
 
 ### 📊 Prediction Results & SHAP Analysis
 
 <p align="center">
-  <img src="./screenshots/result-page.png" alt="Prediction Result Page" width="900">
+  <img src="AMRPrediction/imgs/img1.png" alt="Prediction Result Page" width="900">
 </p>
 
 ### 📈 Analytics Dashboard
 
 <p align="center">
-  <img src="./screenshots/analytics-dashboard.png" alt="Analytics Dashboard" width="900">
+  <img src="AMRPrediction/imgs/img2.png" alt="Analytics Dashboard" width="900">
 </p>
 
 ### 🤖 AI Clinical Assistant
 
 <p align="center">
-  <img src="./screenshots/ai-assistant.png" alt="AI Clinical Assistant" width="900">
+  <img src="AMRPrediction/imgs/img3.png" alt="AI Clinical Assistant" width="900">
 </p>
 
 ---
